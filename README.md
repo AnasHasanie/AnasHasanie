@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Front-end developer.</h3>
 
 <p align="left">
-I am a dedicated and goal-oriented BBIT student with a strong passion for web development. I have hands-on experience in building responsive and user-friendly websites using HTML5, CSS3, and JavaScript. My goal is to become a skilled Full Stack Developer, and I’m constantly learning and improving by working on real-world projects and exploring new technologies.
+I am a dedicated and goal-oriented BBIT student with a strong passion for website development. I have hands-on experience in building responsive and user-friendly websites using HTML5, CSS3, and JavaScript. My goal is to become a skilled Full Stack Developer, and I’m constantly learning and improving by working on real-world projects and exploring new technologies.
 
 
 </p>
